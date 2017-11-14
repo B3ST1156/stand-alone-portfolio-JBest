@@ -1,3 +1,13 @@
 @import "normalize";
 @import "lightgallery";
 @import "lg-transitions";
+
+// Styling for Thumbnails
+
+
+// this gets rid of default styling from figure 
+figure {
+    
+    margin: 0;
+    
+}
