@@ -1,6 +1,7 @@
 @import "normalize";
 @import "lightgallery";
 @import "lg-transitions";
+@import "uikit.min";
 
 // Styling for Thumbnails
 
@@ -9,5 +10,9 @@
 figure {
     
     margin: 0;
+    
+}
+
+h1 {
     
 }
